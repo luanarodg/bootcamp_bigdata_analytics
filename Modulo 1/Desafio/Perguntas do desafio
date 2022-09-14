@@ -1,0 +1,15 @@
+1. Analisando a base inicial de clientes, responda: Qual a média do colesterol dos clientes?
+2. Quantos dados ausentes estão presentes nos 3 datasets? (Somatório de dados ausentes se houver)
+3. Qual comando abaixo realiza a correção de dados ausentes e aplica em um dataset?
+4. Crie um histograma baseado nos pesos dos clientes e escolha a melhor alternativa que representa (utilize 30 barras na visualização **bins=30).
+5. Qual o valor do WCSS para o quarto cluster? (utilize random_state=0)?
+6. Qual o valor do WCSS para o número de cluster = 5? (Utilize random_state=0)
+7. São exemplos de aprendizado supervisionado:
+8. É uma vantagem do processamento em lote:
+9. Qual o valor do centroide para o grupo de baixo risco? Leve em consideração as variáveis na seguinte sequência: peso e colesterol.
+10. Qual a média de idades para o cluster de baixo risco?
+11. Qual o valor mínimo do colesterol coletado para o grupo de alto risco?
+12. Qual o peso máximo presene o cluster de baixo risco?
+13. Qual a melhor representação para o agrupamento dos clusters? Leve em consideração x como colesterol e y como peso.
+14. Qual a média dos pesos para o grupo de risco moderado baixo?
+15. Responda a alternativa CORRETA:
