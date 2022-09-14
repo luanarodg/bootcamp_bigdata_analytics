@@ -1,4 +1,4 @@
-# Bootamp Data Analytics IGTI Pan
+# Bootcamp Data Analytics IGTI Pan
 
 #### Bootcamp sobre big data e analytics ofertado pelo Banco Pan em parceria com IGTI/XP Educação
 - Módulo 1: Fundamentos de Big Data
